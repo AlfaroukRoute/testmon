@@ -1,1 +1,1 @@
-window.alert('')
+window.confirm('issssss')
